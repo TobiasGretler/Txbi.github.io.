@@ -105,3 +105,13 @@ Visual Workbench: Eine Mod, die die Benutzeroberfläche der Werkbank verbessert,
 Visuality: Eine Mod, die die visuelle Darstellung von Minecraft verbessert, indem sie bessere Schattierungen und visuelle Effekte hinzufügt.
 
 Xaero's Minimap (Fair-play Edition): Eine faire Variante des bekannten Minimap-Mods, die keine Standortinformationen von anderen Spielern anzeigt.
+
+
+
+delete this
+
+Iris Shaders
+
+Simple Voice Chat:
+
+Trade Cycling:
